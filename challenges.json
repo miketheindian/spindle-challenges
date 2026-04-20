@@ -1,45 +1,79 @@
 {                                                                                         
     "challenges": [                                                                         
+      {                                   
+        "id": "vinyl-winter-2026",                                                          
+        "name": "Vinyl Winter",                                                             
+        "organizer": "@coldwaxcollective",                                                  
+        "startDate": "2026-01-01",                                                          
+        "endDate": "2026-01-07",                                                            
+        "description": "Seven days of winter-themed spins.",
+        "prompts": [                                                                        
+          "An album you listen to when it's cold outside",  
+          "Something recorded live in winter",                                              
+          "A record with a blue cover",                                                     
+          "An album that feels like staying inside",
+          "Something melancholy but beautiful",                                             
+          "A record you rediscovered this winter",                                          
+          "Your favorite album of last year"
+        ]                                                                                   
+      },                                                    
       {                                                                                     
-        "id": "vinyl-a-day-may-2026",                       
+        "id": "vinyl-a-day-may-2026",                                                       
         "name": "Vinyl A Day May",            
-        "organizer": "@yourfriend",       
-        "startDate": "2026-04-20",            
+        "organizer": "@yourfriend",                                                         
+        "startDate": "2026-04-20",                          
         "endDate": "2026-05-20",                                                            
         "description": "One record a day for 31 days. Any genre, any era.",
         "prompts": [                                                                        
           "An album you inherited",                         
-          "Your first vinyl purchase",                                                      
+          "Your first vinyl purchase",
           "Something you bought for the cover",                                             
           "An album that defined a summer",
           "A record you'd play for someone who doesn't listen to vinyl",                    
           "Something you found at a thrift store",          
-          "An artist you've seen live",                                                     
-          "An album with no bad tracks",                                                    
+          "An artist you've seen live",   
+          "An album with no bad tracks",
           "Something you disagree with the hype on",                                        
-          "A record that reminds you of a specific place",                                  
+          "A record that reminds you of a specific place",
           "Your most played album this year",                                               
-          "Something a friend recommended",                                                 
-          "An album that changed your taste",               
+          "Something a friend recommended",                 
+          "An album that changed your taste",
           "A debut album",                                                                  
-          "Something from before you were born",            
+          "Something from before you were born",
           "An album you fell asleep to",                                                    
           "A record you almost got rid of but didn't",      
-          "Something you bought on impulse",                                                
-          "An album you know every word to",                                                
-          "A live album",                     
+          "Something you bought on impulse",  
+          "An album you know every word to",
+          "A live album",
           "Something that surprised you",                                                   
-          "An album tied to a specific memory",             
+          "An album tied to a specific memory",
           "A record you'd take to a desert island",                                         
           "Something you've never fully listened to",       
-          "An album that got you through something hard",                                   
-          "A guilty pleasure",                              
+          "An album that got you through something hard",
+          "A guilty pleasure",
           "Something with incredible artwork",                                              
           "An album from your hometown scene",
           "A collaboration or split",                                                       
           "Something you'd recommend to a complete stranger",
-          "Your all-time favorite"                                                          
+          "Your all-time favorite"            
+        ]                                 
+      },
+      {                                                                                     
+        "id": "vinyl-summer-2026",
+        "name": "Vinyl Summer Kickoff",                                                     
+        "organizer": "@sundaywax",                          
+        "startDate": "2026-06-01",            
+        "endDate": "2026-06-07",          
+        "description": "A week of summer vibes to kick off the season.",
+        "prompts": [                                                                        
+          "An album that sounds like summer",
+          "Something you'd play at a cookout",                                              
+          "A record you discovered on vacation",            
+          "An album with the word sun, heat, or summer in the title",                       
+          "Something upbeat and impossible to sit still to",                                
+          "A record that peaked in the summer charts",
+          "Your go-to warm weather album"                                                   
         ]                                                                                   
       }                                                                                     
     ]                                                                                       
-  }    
+  } 
