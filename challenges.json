@@ -17,7 +17,28 @@
           "A record you rediscovered this winter",                                          
           "Your favorite album of last year"
         ]                                                                                   
-      },                                                    
+      },
+      {                                   
+        "id": "Double-Up-2026",                                                          
+        "name": "Double Up Challenge",                                                             
+        "organizer": "@vinylstooge",                                                            
+        "hashtag": "#DoubleDouble",                                                  
+        "startDate": "2026-04-20",                                                          
+        "endDate": "2026-04-30",                                                            
+        "description": "Ten days of code stooge10",
+        "prompts": [                                                                        
+          "First Spin Grab Bag",  
+          "Cover Bought, Not Heard",                                              
+          "One-Artist Deep Cut",                                                     
+          "Color Variant Day",
+          "$5 Bin Surprise",                                             
+          "Soundtrack Session",                                          
+          "Genre Jump",
+          "Side B Only",                                             
+          "Memory Lane Record",                                          
+          "Underrated Classic"
+        ]                                                                                   
+      },
       {                                                                                     
         "id": "vinyl-a-day-may-2026",                                                       
         "name": "Vinyl A Day May",            
