@@ -3,7 +3,8 @@
       {                                   
         "id": "vinyl-winter-2026",                                                          
         "name": "Vinyl Winter",                                                             
-        "organizer": "@coldwaxcollective",                                                  
+        "organizer": "@coldwaxcollective",                                                            
+        "hashtag": "#WinterChallenge",                                                  
         "startDate": "2026-01-01",                                                          
         "endDate": "2026-01-07",                                                            
         "description": "Seven days of winter-themed spins.",
@@ -20,7 +21,8 @@
       {                                                                                     
         "id": "vinyl-a-day-may-2026",                                                       
         "name": "Vinyl A Day May",            
-        "organizer": "@yourfriend",                                                         
+        "organizer": "@yourfriend",                                                            
+        "hashtag": "#MayVinylChallenge2026",                                                         
         "startDate": "2026-04-19",                          
         "endDate": "2026-05-19",                                                            
         "description": "One record a day for 31 days. Any genre, any era.",
@@ -61,7 +63,8 @@
       {                                                                                     
         "id": "vinyl-summer-2026",
         "name": "Vinyl Summer Kickoff",                                                     
-        "organizer": "@sundaywax",                          
+        "organizer": "@sundaywax",                                                            
+        "hashtag": "#summervinylchallenge26",                          
         "startDate": "2026-06-01",            
         "endDate": "2026-06-07",          
         "description": "A week of summer vibes to kick off the season.",
