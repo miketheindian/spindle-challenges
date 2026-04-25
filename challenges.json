@@ -1,103 +1,113 @@
-{                                                                                         
-    "challenges": [                                                                         
-      {                                   
-        "id": "vinyl-winter-2026",                                                          
-        "name": "Vinyl Winter",                                                             
-        "organizer": "@coldwaxcollective",                                                            
-        "hashtag": "#WinterChallenge",                                                  
-        "startDate": "2026-01-01",                                                          
-        "endDate": "2026-01-07",                                                            
-        "description": "Seven days of winter-themed spins.",
-        "prompts": [                                                                        
-          "An album you listen to when it's cold outside",  
-          "Something recorded live in winter",                                              
-          "A record with a blue cover",                                                     
-          "An album that feels like staying inside",
-          "Something melancholy but beautiful",                                             
-          "A record you rediscovered this winter",                                          
-          "Your favorite album of last year"
-        ]                                                                                   
-      },
-      {                                   
-        "id": "Double-Up-2026",                                                          
-        "name": "Double Up Challenge",                                                             
-        "organizer": "@vinylstooge",                                                            
-        "hashtag": "#DoubleDouble",                                                  
-        "startDate": "2026-04-20",                                                          
-        "endDate": "2026-04-30",                                                            
-        "description": "Ten days of code stooge10",
-        "prompts": [                                                                        
-          "First Spin Grab Bag",  
-          "Cover Bought, Not Heard",                                              
-          "One-Artist Deep Cut",                                                     
-          "Color Variant Day",
-          "$5 Bin Surprise",                                             
-          "Soundtrack Session",                                          
-          "Genre Jump",
-          "Side B Only",                                             
-          "Memory Lane Record",                                          
-          "Underrated Classic"
-        ]                                                                                   
-      },
-      {                                                                                     
-        "id": "vinyl-a-day-may-2026",                                                       
-        "name": "Vinyl A Day May",            
-        "organizer": "@yourfriend",                                                            
-        "hashtag": "#MayVinylChallenge2026",                                                         
-        "startDate": "2026-05-01",                          
-        "endDate": "2026-05-31",                                                            
-        "description": "One record a day for 31 days. Any genre, any era.",
-        "prompts": [                                                                        
-          "An album you inherited",                         
-          "Your first vinyl purchase",
-          "Something you bought for the cover",                                             
-          "An album that defined a summer",
-          "A record you'd play for someone who doesn't listen to vinyl",                    
-          "Something you found at a thrift store",          
-          "An artist you've seen live",   
-          "An album with no bad tracks",
-          "Something you disagree with the hype on",                                        
-          "A record that reminds you of a specific place",
-          "Your most played album this year",                                               
-          "Something a friend recommended",                 
-          "An album that changed your taste",
-          "A debut album",                                                                  
-          "Something from before you were born",
-          "An album you fell asleep to",                                                    
-          "A record you almost got rid of but didn't",      
-          "Something you bought on impulse",  
-          "An album you know every word to",
-          "A live album",
-          "Something that surprised you",                                                   
-          "An album tied to a specific memory",
-          "A record you'd take to a desert island",                                         
-          "Something you've never fully listened to",       
-          "An album that got you through something hard",
-          "A guilty pleasure",
-          "Something with incredible artwork",                                              
-          "An album from your hometown scene",
-          "A collaboration or split",                                                       
-          "Something you'd recommend to a complete stranger",
-          "Your all-time favorite"            
-        ]                                 
-      },
-      {                                                                                     
-        "id": "vinyl-summer-2026",
-        "name": "Vinyl Summer Kickoff",                                                     
-        "organizer": "@sundaywax",                                                            
-        "hashtag": "#summervinylchallenge26",                          
-        "startDate": "2026-06-01",            
-        "endDate": "2026-06-07",          
-        "description": "A week of summer vibes to kick off the season.",
-        "prompts": [                                                                        
-          "An album that sounds like summer",
-          "Something you'd play at a cookout",                                              
-          "A record you discovered on vacation",            
-          "An album with the word sun, heat, or summer in the title",                       
-          "Something upbeat and impossible to sit still to",                                
-          "A record that peaked in the summer charts",
-          "Your go-to warm weather album"                                                   
-        ]                                                                                   
-      }                                                                                     
-    ]                                                                                       
-  } 
+{
+  "challenges": [
+    {
+      "id": "vinyl-spring-2026",
+      "name": "Spring Awakening",
+      "organizer": "@joinspindle",
+      "hashtag": "#SpringAwakening2026",
+      "startDate": "2026-03-15",
+      "endDate": "2026-03-31",
+      "description": "March madness for vinyl. Seven days of spring-themed spins.",
+      "prompts": [
+        "An album that sounds like spring",
+        "Something you're spinning for the first time this season",
+        "A record with green, yellow, or floral artwork",
+        "An album that feels like renewal",
+        "Something uplifting and fresh",
+        "A record you haven't played in months",
+        "Your favorite spring memory album"
+      ],
+      "isComplete": true,
+      "completedDate": "2026-03-31",
+      "participantCount": 47,
+      "totalSpins": 156
+    },
+    {
+      "id": "spindle-spin-in-beta",
+      "name": "Spindle Spin-In",
+      "organizer": "@joinspindle",
+      "hashtag": "#SpindleBeta",
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-30",
+      "description": "Get the ball rolling. First week of Spindle beta — show us what's spinning.",
+      "prompts": [
+        "The record that made you want to test Spindle",
+        "Your most-played album this month",
+        "Something you're spinning right now",
+        "A record you'd play to introduce Spindle to a friend",
+        "Your guilty pleasure spin",
+        "An album that defines your collection",
+        "The record you've owned the longest"
+      ],
+      "isComplete": false,
+      "participantCount": 0,
+      "totalSpins": 0
+    },
+    {
+      "id": "collection-stories-beta",
+      "name": "Collection Stories",
+      "organizer": "@joinspindle",
+      "hashtag": "#CollectionStories",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-14",
+      "description": "Every record has a story. Share yours.",
+      "prompts": [
+        "A record with a story behind the purchase",
+        "Something you inherited",
+        "A thrift store find you'd never heard of",
+        "An album you bought on impulse",
+        "A record that came with you on a journey",
+        "Something a friend gifted you",
+        "The record that started your collection",
+        "An album you almost threw away but kept",
+        "A record connected to a specific memory",
+        "Something you'd play to explain who you are"
+      ],
+      "isComplete": false,
+      "participantCount": 0,
+      "totalSpins": 0
+    },
+    {
+      "id": "spindle-showcase-beta",
+      "name": "Spindle Showcase",
+      "organizer": "@joinspindle",
+      "hashtag": "#SpindleShowcase",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-31",
+      "description": "Show off your Spindle setup, stats, and community moments.",
+      "prompts": [
+        "Your Spindle profile screenshot — what surprised you about your stats?",
+        "Your most-logged spin this month",
+        "A friend's collection you discovered through Spindle",
+        "Your favorite challenge moment so far",
+        "A genre deep-dive you're on",
+        "Your listening pattern — what does it say about you?",
+        "Something you re-discovered through someone else's spins"
+      ],
+      "isComplete": false,
+      "participantCount": 0,
+      "totalSpins": 0
+    },
+    {
+      "id": "feedback-loop-beta",
+      "name": "Feedback Loop",
+      "organizer": "@joinspindle",
+      "hashtag": "#SpindleFeedback",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-14",
+      "description": "Help shape Spindle. Share what you'd like to see next.",
+      "prompts": [
+        "A feature you'd love to see in Spindle",
+        "Something that confused you in the app",
+        "An album genre Spindle should highlight",
+        "How you'd want to connect with other collectors",
+        "A stat or visualization you want to see",
+        "What would make you invite a friend to Spindle?",
+        "Something that surprised you about your listening habits"
+      ],
+      "isComplete": false,
+      "participantCount": 0,
+      "totalSpins": 0
+    }
+  ]
+}
