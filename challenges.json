@@ -68,46 +68,46 @@
       "totalSpins": 0
     },
     {
-      "id": "spindle-showcase-beta",
-      "name": "Spindle Showcase",
-      "organizer": "@joinspindle",
-      "hashtag": "#SpindleShowcase",
-      "startDate": "2026-05-15",
-      "endDate": "2026-05-31",
-      "description": "Show off your Spindle setup, stats, and community moments.",
-      "prompts": [
-        "Your Spindle profile screenshot — what surprised you about your stats?",
-        "Your most-logged spin this month",
-        "A friend's collection you discovered through Spindle",
-        "Your favorite challenge moment so far",
-        "A genre deep-dive you're on",
-        "Your listening pattern — what does it say about you?",
-        "Something you re-discovered through someone else's spins"
-      ],
-      "isComplete": false,
-      "participantCount": 0,
-      "totalSpins": 0
-    },
+  "id": "spindle-showcase-beta",
+  "name": "Spindle Showcase",
+  "organizer": "@joinspindle",
+  "hashtag": "#SpindleShowcase",
+  "startDate": "2026-05-15",
+  "endDate": "2026-05-31",
+  "description": "A celebration of your setup, collection, habits, and listening identity.",
+  "prompts": [
+    "Your listening setup (turntable, speakers, storage, vibes)",
+    "An album that represents your taste perfectly",
+    "Your most-played record lately",
+    "A hidden gem from your collection",
+    "A record you own just for the artwork",
+    "An album you think deserves more spins",
+    "Your current collection in one photo"
+  ],
+  "isComplete": false,
+  "participantCount": 0,
+  "totalSpins": 0
+},
     {
-      "id": "feedback-loop-beta",
-      "name": "Feedback Loop",
-      "organizer": "@joinspindle",
-      "hashtag": "#SpindleFeedback",
-      "startDate": "2026-06-01",
-      "endDate": "2026-06-14",
-      "description": "Help shape Spindle. Share what you'd like to see next.",
-      "prompts": [
-        "A feature you'd love to see in Spindle",
-        "Something that confused you in the app",
-        "An album genre Spindle should highlight",
-        "How you'd want to connect with other collectors",
-        "A stat or visualization you want to see",
-        "What would make you invite a friend to Spindle?",
-        "Something that surprised you about your listening habits"
-      ],
-      "isComplete": false,
-      "participantCount": 0,
-      "totalSpins": 0
-    }
+  "id": "feedback-loop-beta",
+  "name": "Discovery Loop",
+  "organizer": "@joinspindle",
+  "hashtag": "#DiscoveryLoop",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-14",
+  "description": "Dig deeper into your collection and uncover records you haven't given enough love.",
+  "prompts": [
+    "A record you forgot you owned",
+    "An album you've been meaning to spin",
+    "A record you bought recently but haven't played enough",
+    "A genre you want to explore more",
+    "A record you almost sold but kept",
+    "A nostalgic album from another chapter of life",
+    "A spin that changed your mood this week"
+  ],
+  "isComplete": false,
+  "participantCount": 0,
+  "totalSpins": 0
+}
   ]
 }
