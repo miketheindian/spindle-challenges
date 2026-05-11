@@ -49,7 +49,7 @@
       "organizer": "@joinspindle",
       "hashtag": "#CollectionStories",
       "startDate": "2026-05-01",
-      "endDate": "2026-05-14",
+      "endDate": "2026-05-10",
       "description": "Every record has a story. Share yours.",
       "prompts": [
         "A record with a story behind the purchase",
@@ -72,8 +72,8 @@
   "name": "Spindle Showcase",
   "organizer": "@joinspindle",
   "hashtag": "#SpindleShowcase",
-  "startDate": "2026-05-15",
-  "endDate": "2026-05-31",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-24",
   "description": "A celebration of your setup, collection, habits, and listening identity.",
   "prompts": [
     "Your listening setup (turntable, speakers, storage, vibes)",
@@ -94,7 +94,7 @@
   "organizer": "@joinspindle",
   "hashtag": "#DiscoveryLoop",
   "startDate": "2026-06-01",
-  "endDate": "2026-06-14",
+  "endDate": "2026-06-07",
   "description": "Dig deeper into your collection and uncover records you haven't given enough love.",
   "prompts": [
     "A record you forgot you owned",
