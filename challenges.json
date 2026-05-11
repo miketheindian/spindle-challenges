@@ -76,13 +76,13 @@
   "endDate": "2026-05-24",
   "description": "A celebration of your setup, collection, habits, and listening identity.",
   "prompts": [
-    "Your listening setup (turntable, speakers, storage, vibes)",
-    "An album that represents your taste perfectly",
+    "The album that feels the most \"you\"",
     "Your most-played record lately",
-    "A hidden gem from your collection",
-    "A record you own just for the artwork",
-    "An album you think deserves more spins",
-    "Your current collection in one photo"
+    "A hidden gem in your collection",
+    "An album you bought instantly after hearing it once",
+    "A record you think deserves way more attention",
+    "The album you always recommend to people",
+    "A record that perfectly matches your current mood"
   ],
   "isComplete": false,
   "participantCount": 0,
@@ -101,7 +101,7 @@
     "An album you've been meaning to spin",
     "A record you bought recently but haven't played enough",
     "A genre you want to explore more",
-    "A record you almost sold but kept",
+    "A record that surprised you on a recent re-listen",
     "A nostalgic album from another chapter of life",
     "A spin that changed your mood this week"
   ],
